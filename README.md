@@ -5,6 +5,7 @@
 4. Kimberly Cauane
 5. Mariana Nogueira
 
+***alteração realizada pelo navegador*
 # Atividades da disciplina E-commerce
 
 Olá, pessoal. Tudo bem?
