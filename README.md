@@ -1,3 +1,10 @@
+### Membros do grupo
+1. Angelica Marras
+2. Luma Falci
+3. Sayuri Shitaku
+4. Kimberly Cauane
+5. Mariana Nogueira
+
 # Atividades da disciplina E-commerce
 
 Olá, pessoal. Tudo bem?
